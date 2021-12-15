@@ -61,7 +61,7 @@ with st.sidebar.expander("Poenggivning"):
         "Alle dommerne gav en score mellom 0 og 100. Snittet av dette er endelig score på testet slag."
     )
 
-st.sidebar.header("Grafe:")
+st.sidebar.header("Graf:")
 
 år = st.sidebar.selectbox(
     "Velg år:",

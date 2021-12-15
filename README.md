@@ -5,8 +5,4 @@ Data taken from Excel, converted to CSV and processed in Streamlit.
 The code is a mess and a lot of it I don`t understand as I had to copy some parts of it.
 But it works as intended. Ish.
 
-### REQUIREMENTS
-* pandas
-* plotly.express
-
 #NORWEGIAN LANGUAGE#

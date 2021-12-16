@@ -1,0 +1,2 @@
+To launh app, type the following in terminal;
+$ streamlit run app.py
